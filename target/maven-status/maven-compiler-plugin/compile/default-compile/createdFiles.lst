@@ -1,0 +1,13 @@
+com\localhost\swagger\model\ProductPojo.class
+com\localhost\swagger\utils\PropertyReader.class
+com\localhost\swagger\model\ServicesPojo.class
+com\localhost\swagger\model\StoresPojo.class
+com\localhost\swagger\bestbuyinfo\CategoriesSteps.class
+com\localhost\swagger\bestbuyinfo\ProductSteps.class
+com\localhost\swagger\bestbuyinfo\StoreSteps.class
+com\localhost\swagger\model\CategoriesPojo.class
+com\localhost\swagger\bestbuyinfo\ServicesSteps.class
+com\localhost\swagger\constants\Path.class
+com\localhost\swagger\constants\EndPoints.class
+com\localhost\swagger\utils\TestUtils.class
+com\localhost\swagger\bestbuyinfo\UtilitiesStep.class

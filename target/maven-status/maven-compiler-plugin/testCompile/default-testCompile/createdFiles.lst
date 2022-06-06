@@ -1,0 +1,10 @@
+com\localhost\swagger\bestbuyinfoCURD\UtilitiesCURDTestWithSteps.class
+com\localhost\swagger\bestbuyinfoCURD\ProductsCURDTestWithSteps.class
+com\localhost\swagger\bestbuyinfoCURD\StoresCURDTestWithSteps.class
+com\localhost\swagger\cucumber\CucumberRunner.class
+com\localhost\swagger\bestbuyinfoCURD\CategoriesCURDTestWithSteps.class
+com\localhost\swagger\junit\studentInfo\StudentsGetTest.class
+com\localhost\swagger\testbase\TestBase.class
+com\localhost\swagger\junit\studentidinfo\StudentsGetTest1.class
+com\localhost\swagger\bestbuyinfoCURD\ServicesCURDTestWithSteps.class
+com\localhost\swagger\cucumber\steps\MyStepdefs.class
